@@ -26055,7 +26055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e17a2ccf71e902840ae1beca4d34117e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MapVersion: 39
+  MapVersion: 40
   MapName: Veldin
   MapAuthor: Dnawrkshp
   MapDescription: '\blue\[MEDIUM]\normal\
@@ -48322,6 +48322,8 @@ MonoBehaviour:
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions: []
+  Parameters: []
   SpecialRoundOnly: 0
   MinRound: 15
   MaxSpawnedAtOnce: 20
@@ -80592,6 +80594,8 @@ MonoBehaviour:
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions: []
+  Parameters: []
   SpecialRoundOnly: 0
   MinRound: 0
   MaxSpawnedAtOnce: 0
@@ -84839,6 +84843,8 @@ MonoBehaviour:
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions: []
+  Parameters: []
   SpecialRoundOnly: 0
   MinRound: 0
   MaxSpawnedAtOnce: 0

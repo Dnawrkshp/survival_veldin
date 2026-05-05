@@ -3,7 +3,7 @@
 #include <libdl/stdio.h>
 #include <libdl/random.h>
 #include <libdl/ui.h>
-#include "shared.h"
+#include "mobs/mob.h"
 #include "maputils.h"
 
 extern SurvivalBakedConfig_t bakedConfig;
