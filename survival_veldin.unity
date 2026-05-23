@@ -26055,7 +26055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e17a2ccf71e902840ae1beca4d34117e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MapVersion: 40
+  MapVersion: 41
   MapName: Veldin
   MapAuthor: Dnawrkshp
   MapDescription: '\blue\[MEDIUM]\normal\
@@ -48721,9 +48721,12 @@ MonoBehaviour:
   Defines: []
   Files:
   - {fileID: 102900000, guid: 6c2b3d6694cfbb44995126f621e01a43, type: 3}
+  LoadFunctionName: 
   InitFunctionName: 
   CleanupFunctionName: 
+  StartFunctionName: 
   TickFunctionName: 
+  DrawFunctionName: 
   WaitForClientsReady: 0
   Metas: []
 --- !u!1 &907136473
